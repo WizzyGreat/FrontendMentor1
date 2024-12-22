@@ -1,0 +1,40 @@
+@media onlyscreen and(max-width:375px){
+}
+@media onlyscreen and(min-width:1440px){
+}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+body{
+    background-color: #F3E5D8;
+    text-align: center;
+}
+main{
+    width: 939px;
+    display: block;
+    box-sizing: border-box;
+}
+.container{
+    border-radius: 70px;
+    background-color: white;
+    border-width: 6px;
+    border: 90px;
+    margin-left: 260px;
+}
+.image-box{
+object-fit: cover;
+ width: 80%;
+ border: 50%;
+ border-radius:70%;
+}
+.grt{
+    background-color: #FFF7FC;
+}
+.attribution{
+    text-align: center;
+    width:130%;
+    height: 100%;
+}
+hr{
+    width: 80%;
+    border-style: solid;
+    border-width: 1px;
+}
